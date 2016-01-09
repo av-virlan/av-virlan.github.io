@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Creator Name</title>
-		<description>A blog using a modified Midnight theme</description>
-		<link>http://example.org/jekyll-dusk-blog</link>
-		<atom:link href="http://example.org/jekyll-dusk-blog/feed.xml" rel="self" type="application/rss+xml" />
+		<title>av.virlan</title>
+		<description>A blog about tech in the middle of the night</description>
+		<link>http://av-virlan.github.io/</link>
+		<atom:link href="http://av-virlan.github.io//feed.xml" rel="self" type="application/rss+xml" />
 		
 	</channel>
 </rss>

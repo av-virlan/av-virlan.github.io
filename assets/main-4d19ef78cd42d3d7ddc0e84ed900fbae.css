@@ -7,8 +7,8 @@
  * -------------------------- */
 @font-face {
   font-family: 'FontAwesome';
-  src: url("/jekyll-dusk-blog/assets/font-awesome/fontawesome-webfont-85d7e938fc495a7760fc27d720618db9.eot");
-  src: url("/jekyll-dusk-blog/assets/font-awesome/fontawesome-webfont-85d7e938fc495a7760fc27d720618db9.eot?#iefix") format("embedded-opentype"), url("/jekyll-dusk-blog/assets/font-awesome/fontawesome-webfont-8a48e2bab4a2b77d58ccc1f02ace791b.woff2") format("woff2"), url("/jekyll-dusk-blog/assets/font-awesome/fontawesome-webfont-c4d93f1236d235f5449967a2a6457c7c.woff") format("woff"), url("/jekyll-dusk-blog/assets/font-awesome/fontawesome-webfont-0c26417004c4bc00da825a83c6537fc4.ttf") format("truetype"), url("/jekyll-dusk-blog/assets/font-awesome/fontawesome-webfont-77abe335087d152b71264d95a848c20d.svg#fontawesomeregular") format("svg");
+  src: url("/assets/font-awesome/fontawesome-webfont-85d7e938fc495a7760fc27d720618db9.eot");
+  src: url("/assets/font-awesome/fontawesome-webfont-85d7e938fc495a7760fc27d720618db9.eot?#iefix") format("embedded-opentype"), url("/assets/font-awesome/fontawesome-webfont-8a48e2bab4a2b77d58ccc1f02ace791b.woff2") format("woff2"), url("/assets/font-awesome/fontawesome-webfont-c4d93f1236d235f5449967a2a6457c7c.woff") format("woff"), url("/assets/font-awesome/fontawesome-webfont-0c26417004c4bc00da825a83c6537fc4.ttf") format("truetype"), url("/assets/font-awesome/fontawesome-webfont-77abe335087d152b71264d95a848c20d.svg#fontawesomeregular") format("svg");
   font-weight: normal;
   font-style: normal;
 }
